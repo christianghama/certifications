@@ -11,3 +11,5 @@
 . Google-Build Data Warehouse with Big Query: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8646274
 
 . Google-Modernizing Data Lakes and Data Warehouses: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8977511
+
+. Google-Preparing for Professional Data Engineering: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/9537488
