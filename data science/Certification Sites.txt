@@ -1,0 +1,13 @@
+. Coursera-Data Scientist Toolbox: https://www.coursera.org/account/accomplishments/verify/CGJDE59CTFNT
+
+. Google-Streaming Analytics into BigQuery: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8686840
+
+. Google-Share Data Using Google Cloud: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8657746
+
+. Google-Prepare Data for ML on Google Cloud: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8564746
+
+. Google-Engineer Data for Predictive Modeling: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8759452
+
+. Google-Build Data Warehouse with Big Query: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8646274
+
+. Google-Modernizing Data Lakes and Data Warehouses: https://www.cloudskillsboost.google/public_profiles/7ce32ec8-996f-41bc-849e-ae61070dad99/badges/8977511
