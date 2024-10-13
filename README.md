@@ -7,14 +7,12 @@ The list below provides the details about all my courses organized by knowledge 
 |------|--------------------|----------|----------|-----------------|
 |Sep, 2016| The Data Scientist’s Toolbox | Coursera  | 18 h  | [Coursera Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Coursera-Data%20Scientist%20Toolbox.jpeg) |
 
-
-
 ### Data Science
 
 | Date | Course Name        | Provider | Duration | Certificate     |
 |------|--------------------|----------|----------|-----------------|
+|Apr, 2024| Prepare Data for ML APIs on Google Cloud | Google  | 6,5 h  | [Coursera Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Coursera-Data%20Scientist%20Toolbox.jpeg) |
 |Sep, 2016| The Data Scientist’s Toolbox | Coursera  | 18 h  | [Coursera Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Coursera-Data%20Scientist%20Toolbox.jpeg) |
-
 
 ### Management & Leadership
 
