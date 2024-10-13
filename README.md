@@ -3,9 +3,9 @@ Below I provide the details about all my courses organized by knowledge areas.
 
 ### Data Science
 
-| Date | Course Name        | Provider | Duration | Certificate     |
+| Date | Course Name        | Provider | Duration | Certificates*     |
 |------|--------------------|----------|----------|-----------------|
-|Jun, 2024| Preparing for your Professional Data Engineer Journey | Google  | 5 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Modernizing%20Data%20Lakes%20and%20Data%20Warehouses.png) |
+|Jun, 2024| Preparing for your Professional Data Engineer Journey | Google  | 5 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Preparing%20for%20Professional%20Data%20Engineering.png) |
 |May, 2024| Modernizing Data Lakes and Data Warehouses with Google Cloud | Google  | 8 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Modernizing%20Data%20Lakes%20and%20Data%20Warehouses.png) |
 |Apr, 2024| Engineer Data for Predictive Modeling with BigQuery ML | Google  | 4 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Engineer%20Data%20for%20Predictive%20Modeling.png) |
 |Apr, 2024| Streaming Analytics into BigQuery | Google  | 2,5 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Streaming%20Analytics%20into%20BigQuery.png) |
@@ -14,6 +14,7 @@ Below I provide the details about all my courses organized by knowledge areas.
 |Apr, 2024| Prepare Data for ML APIs on Google Cloud | Google  | 6,5 h  | [Google Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Google-Prepare%20Data%20for%20ML%20on%20Google%20Cloud.png) |
 |Sep, 2016| The Data Scientist’s Toolbox | Coursera  | 18 h  | [Coursera Certificate](https://github.com/christianghama/certifications/blob/master/data%20science/Coursera-Data%20Scientist%20Toolbox.jpeg) |
 
+\* More details about the certification sites is available in [Certification Sites](https://github.com/christianghama/certifications/blob/master/data%20science/Certification%20Sites.txt).
 ### Management & Leadership
 
 | Date    | Course Name        | Provider | Duration | Certificate     |
