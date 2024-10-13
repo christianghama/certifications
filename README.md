@@ -3,8 +3,7 @@ The list below provides the details about all my courses organized by knowledge 
 
 ### Management & Leadership
 
-| Course Name        | Provider | Certificate    |
-|-------------|-------|------------|
-| Liderança e Gestão de Pessoas (Leadership and People Management) | Udemy Business    | [Udemy Certificate](https://github.com/christianghama/certifications/blob/master/management/Udemy-Leadership%20and%20Management.pdf)  |
-| Maria       | 30    | Rio de Janeiro |
-| Pedro       | 22    | Brasília   |
+| Date | Course Name        | Provider | Duration | Certificate     |
+|------|--------------------|----------|----------|-----------------|
+|Oct, 2024| Liderança e Gestão de Pessoas (Leadership and People Management)| Udemy Business    | 12 h | [Udemy Certificate](https://github.com/christianghama/certifications/blob/master/management/Udemy-Leadership%20and%20Management.pdf)  |
+|Jun, 2023| Torne-se Gerente de Projetos Ágeis (Become an Agile Project Manager)| LinkedIn Learning  | 10 h  | [Linkedin Certificate](https://github.com/christianghama/certifications/blob/master/management/Linkedin-Agile%20Project%20Manager.png) |
