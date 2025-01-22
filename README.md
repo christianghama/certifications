@@ -1,5 +1,6 @@
-In this page you can find information about the courses I have done in various areas such as cloud computing, cyber security, devops, project management etc. Along my carreer I have attended almost 100 formation courses! However, I decided to prioritize in this page those that are more aligned with the professional challenges I have been searching in the last ten years. Be advised that since I am a continuous learner, this list is in constant update.
-Below I provide the details about all my courses organized by knowledge areas.
+On this page, you’ll find information about the courses I’ve completed across a variety of fields, including cloud computing, cybersecurity, DevOps, project management, and more. Over the course of my career, I’ve attended nearly 100 training programs! However, I’ve chosen to highlight here those that are most relevant to the professional challenges I’ve been pursuing over the past decade.
+
+As a lifelong learner, I regularly update this list to reflect my ongoing development. Below, you’ll find a detailed breakdown of all my courses, organized by area of expertise.
 
 ### Data Science
 
